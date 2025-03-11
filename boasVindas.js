@@ -1,4 +1,4 @@
 
-let  nomeDeUsuario = prompt ("insira seu nome de usuário");
+let  nome= prompt ("insira seu nome de usuário");
 
-console.log("Seja bem vindo ${nome}");
+console.log(`Seja bem vindo ${nome}`);
